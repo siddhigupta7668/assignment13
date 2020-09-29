@@ -1,0 +1,61 @@
+.h2{
+    background-color:whitesmoke;
+    margin-left: 90px;
+    font-weight: normal;
+}
+body{
+    background-color: #1BCA9B;
+    line-height: 70px;
+    text-align:start;
+    
+}
+.image {
+    background-color:whitesmoke;
+    margin-left: 90px;
+    font-weight: normal;
+}
+.p2 {
+    background-image: url(https://rb.gy/q5xrhc);
+    background-repeat: no-repeat;
+    background-position: left;
+    text-align:center;
+    font-size: 100px;
+    background-color: whitesmoke;
+    margin-left: 90px;
+    text-align: start;
+
+}
+.P3 {
+    font-size: 50px;
+
+    
+    
+
+    
+}
+.P4{
+    font-size: 50px ;
+   text-transform: capitalize;
+}
+.p5 {
+    color: green;
+    border: green;
+    font-size: 20px;
+    
+    border-style: solid;
+    
+}
+                                          
+.p6 {
+    padding-left: 20px;
+    margin-left: 90px;
+    background-color: whitesmoke;
+    line-height: 40px;
+    text-transform: capitalize;
+}
+
+.p7 { padding-left: 20px;
+    margin-left: 90px;
+    background-color: whitesmoke;
+    line-height: 40px;
+    text-transform: capitalize;}
